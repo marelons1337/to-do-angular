@@ -1,4 +1,5 @@
 # ToDo
+Simple ToDo app created with Angular just to try it out.
 
 ## Development server
 
