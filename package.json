@@ -22,7 +22,9 @@
     "@fortawesome/angular-fontawesome": "^0.9.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "angular-cli-ghpages": "^1.0.0-rc.2",
     "rxjs": "~6.6.0",
+    "save-dev": "^0.0.1-security",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
   },

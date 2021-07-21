@@ -1,6 +1,8 @@
 # ToDo
 Simple ToDo app created with Angular just to try it out.
 
+![How it works](./presentation.gif)
+
 ## Development server
 
 `npm install`
