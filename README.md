@@ -7,7 +7,7 @@ Simple ToDo app created with Angular just to try it out.
 
 `ng serve` 
 
-`npm server`
+`npm run server`
 Runs  
 `json-server --watch db.json`
 db.json contains all the mock records for the app.
