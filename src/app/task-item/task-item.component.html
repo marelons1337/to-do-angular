@@ -1,0 +1,10 @@
+<div class="task-container">
+  <h2>{{ task.name }}</h2>
+  <fa-icon
+    [icon]="faTimes"
+    [ngStyle]="{ color: 'red' }"
+    (click)="onDelete(task)"
+  ></fa-icon>
+  <h3 (dblclick)="onToggle(task)">{{ task.date }}</h3>
+  <p *ngIf="task?.reminder">🔔Reminder</p>
+</div>

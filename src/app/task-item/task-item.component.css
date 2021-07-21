@@ -1,0 +1,18 @@
+.task-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px seagreen solid;
+  background-color: seashell;
+  margin: 10px;
+}
+.task-container h3 {
+  flex: 0 1 100%;
+}
+
+fa-icon {
+  cursor: pointer;
+  display: inline-block;
+}

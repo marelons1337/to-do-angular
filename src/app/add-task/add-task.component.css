@@ -1,0 +1,17 @@
+label:not(.reminder) {
+    display: block;
+    margin-top:10px;
+}
+
+input:not(#reminder) {
+    padding: 5px 10px;
+    width: 100%;
+}
+
+input#reminder {
+    margin: 20px;
+}
+
+form {
+    padding-bottom: 40px;
+}
